@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/googollee/go-engine.io"
+	"github.com/gotmyname/go-engine.io"
 )
 
 func main() {

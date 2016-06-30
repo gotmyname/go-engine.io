@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/googollee/go-engine.io/parser"
+	"github.com/gotmyname/go-engine.io/parser"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
